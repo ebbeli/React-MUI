@@ -1,11 +1,9 @@
-import Header from "./Header";
 import PersonCard from "./PersonCard";
 import ReactCard from "./ReactCard";
-import { useState } from "react";
 import "../css/App.css";
 import "../css/index.css";
 import { Container } from "@mui/system";
-import { Box, Card, Grid, Stack, Typography } from "@mui/material";
+import { Grid } from "@mui/material";
 import Skills from "./Skills";
 
 const mainView = () => {

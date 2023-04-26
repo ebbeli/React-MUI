@@ -1,19 +1,6 @@
-import {
-  Paper,
-  Chip,
-  Divider,
-  Switch,
-  Typography,
-  Container,
-} from "@mui/material";
+import { Paper, Divider, Typography } from "@mui/material";
 import { Box, Stack } from "@mui/system";
-import Avatar from "@mui/material/Avatar";
 import React from "react";
-import LocationIcon from "@mui/icons-material/LocationOn";
-import PhoneIcon from "@mui/icons-material/Phone";
-import EmailIcon from "@mui/icons-material/Email";
-import Logo1 from "../static/logo512.png";
-import Logo2 from "../static/mui.png";
 import "../css/App.css";
 
 const ReactCard = () => {

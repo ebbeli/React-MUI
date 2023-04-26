@@ -1,13 +1,4 @@
-import {
-  Paper,
-  Chip,
-  Divider,
-  Switch,
-  Typography,
-  Container,
-  Grid,
-  FormGroup,
-} from "@mui/material";
+import { Paper, Divider, Typography, Container, Grid } from "@mui/material";
 import React from "react";
 import Logo1 from "../static/logo512.png";
 import Logo2 from "../static/mui.png";

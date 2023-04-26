@@ -1,10 +1,7 @@
 import Header from "./components/Header";
-import PersonCard from "./components/PersonCard";
-import { useState } from "react";
 import "./css/App.css";
 import "./css/index.css";
-import { Container } from "@mui/system";
-import { Box, Card, Typography } from "@mui/material";
+import { Box } from "@mui/material";
 import View from "./components/View.js";
 import { ThemeProvider, createTheme } from "@mui/material/styles";
 import Mode from "./components/ModeSelector.js";
